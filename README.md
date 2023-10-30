@@ -9,4 +9,4 @@
 # 프로젝트 구조
 ![캡처](https://github.com/aon949494/final/assets/149350230/e0df837d-e4b3-4cee-b8d0-da4812fa2d39)
 - ERD
-  
+  ![d](https://github.com/aon949494/final/assets/149350230/82ccacd9-62d0-4e14-873f-2fa5001e6552)
