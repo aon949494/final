@@ -5,4 +5,5 @@
 - [회원가입시 ID중복체크 기능을 구현하였습니다.](https://github.com/aon949494/final/blob/master/src/main/webapp/WEB-INF/join.jsp)
 - 중복체크 후 ID값 변경될 경우 ID중복체크 리셋기능을 구현하였습니다.
 - Daum오픈 API사용으로 사용자의 주소를 입력받을 수 있게 구현하였습니다.
-- 자동로그인 기능
+- [자동로그인 기능](https://github.com/aon949494/final/blob/master/src/main/java/org/zerock/finals/controller/LoginController.java)
+# 프로젝트 구조
