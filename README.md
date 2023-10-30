@@ -10,3 +10,9 @@
 ![캡처](https://github.com/aon949494/final/assets/149350230/e0df837d-e4b3-4cee-b8d0-da4812fa2d39)
 - ERD
   ![d](https://github.com/aon949494/final/assets/149350230/82ccacd9-62d0-4e14-873f-2fa5001e6552)
+# 기술
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![Spring](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
