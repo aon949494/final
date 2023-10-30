@@ -7,3 +7,4 @@
 - Daum오픈 API사용으로 사용자의 주소를 입력받을 수 있게 구현하였습니다.
 - [자동로그인 기능](https://github.com/aon949494/final/blob/master/src/main/java/org/zerock/finals/controller/LoginController.java)
 # 프로젝트 구조
+![캡처](https://github.com/aon949494/final/assets/149350230/e0df837d-e4b3-4cee-b8d0-da4812fa2d39)
