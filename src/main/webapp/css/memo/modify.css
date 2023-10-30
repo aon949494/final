@@ -1,0 +1,40 @@
+.list-con{
+    width: 700px;
+    height: 600px;
+    margin-top: 50px;
+    margin-left: 150px;
+    box-sizing: border-box;
+    border-style: dashed;
+    padding-left: 37px;
+    padding-top: 10px;
+    background-color: #fffabd;
+}
+.read-con{
+    margin-bottom: 10px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    font-size: 20px;
+    text-align: left;
+    background-color: transparent;
+}
+.title{
+    margin-left: 145px;
+    font-size: 30px;
+    border-radius: 20px;
+    border-style: none;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: transparent;
+}
+.update{
+    float: left;
+    font-size: 21px;
+    background-color: transparent;
+    margin-right: 10px;
+}
+.delete{
+    float: left;
+    font-size: 21px;
+    background-color: transparent;
+}

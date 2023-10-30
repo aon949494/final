@@ -1,0 +1,99 @@
+@charset "utf-8";
+*{
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    list-style-type: none;
+}
+
+.wrap{
+    width: 1200px;
+    height: 800px;
+    background-color: #ddffce;
+}
+.info{
+    width: 1200px;
+    height: 100px;
+    background-color: transparent;
+    text-align: center;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+
+}
+.home{
+    width: 200px;
+    height: 100px;
+    background-color: transparent;
+    box-sizing: border-box;
+    padding-top: 25px;
+    float: left;
+    border-right-style: solid;
+    border-right-width: thin;
+}
+.info-inner{
+    width: 1000px;
+    height: 100px;
+    padding-top: 25px;
+    box-sizing: border-box;
+    background-color: transparent;
+    float: left;
+}
+.header{
+    width: 200px;
+    height: 700px;
+    background-color: transparent;
+    float: left;
+    border-right-style: solid;
+    box-sizing: border-box;
+    border-right-width: thin;
+}
+.h1{
+    width: 200px;
+    height: 120px;
+    background-color: transparent;
+    padding-left: 50px;
+    padding-top: 35px;
+    box-sizing: border-box;
+    border-right-style: solid;
+    border-right-width: thin;
+}
+.h1_1{
+    width: 200px;
+    height: 30px;
+    padding-left: 8px;
+    box-sizing: border-box;
+    border-right-style: solid;
+    border-right-width: thin;
+    border-bottom-style: solid;
+}
+.myPage{
+    float: left;
+    font-size: 18px;
+    margin-right: 2px;
+    border-radius: 10px;
+}
+.logOut{
+    float: left;
+    font-size: 18px;
+    border-radius: 10px;
+}
+.h2{
+    width: 200px;
+    height: 550px;
+    background-color: transparent;
+    padding-top: 30px;
+    box-sizing: border-box;
+    font-size: 30px;
+    border-right-style: solid;
+    border-right-width: thin;
+}
+.main{
+    width: 1000px;
+    height: 700px;
+    background-color: transparent;
+    float: left;
+}

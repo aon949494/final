@@ -1,0 +1,30 @@
+.register{
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+    padding-top: 20px;
+    box-sizing: border-box;
+    padding-right: 56px;
+    border-style: dashed;
+}
+.register-con{
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    box-sizing: border-box;
+}
+.register-concon{
+    margin-bottom: 15px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    font-size: 30px;
+    text-align: center;
+}
+.reset{
+    font-size: 20px;
+    background-color: transparent;
+}
+.reg{
+    font-size: 20px;
+    background-color: transparent;
+}
