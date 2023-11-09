@@ -8,12 +8,11 @@
 - [자동로그인 기능](https://github.com/aon949494/final/blob/master/src/main/java/org/zerock/finals/controller/LoginController.java)
 # 프로젝트 구조
 ![캡처](https://github.com/aon949494/final/assets/149350230/85239870-6294-4544-bc32-6721f1b4c51f)
-- 회원가입/로그인 기능 구조
-  ![image](https://github.com/aon949494/final/assets/149350230/225fd7e1-b459-4573-9a58-251a2dfc8491)
-- ERD
-  ![d](https://github.com/aon949494/final/assets/149350230/82ccacd9-62d0-4e14-873f-2fa5001e6552)
-# 기술
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+- [회원가입/로그인 기능 구조](https://github.com/aon949494/final/edit/master/README.md#%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%EC%A1%B0)
+- [Todo 서비스 구조](https://github.com/aon949494/final/edit/master/README.md#todo-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0)
+- [Memo 서비스 구조](https://github.com/aon949494/final/edit/master/README.md#memo-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0)
+# 회원가입/로그인 기능 구조
+
+# Todo 서비스 구조
+# Memo 서비스 구조
+
