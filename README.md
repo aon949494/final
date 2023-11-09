@@ -12,7 +12,7 @@
 - [Todo 서비스 구조](https://github.com/aon949494/final/edit/master/README.md#todo-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0)
 - [Memo 서비스 구조](https://github.com/aon949494/final/edit/master/README.md#memo-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0)
 # 회원가입/로그인 기능 구조
-
+![image](https://github.com/aon949494/final/assets/149350230/225fd7e1-b459-4573-9a58-251a2dfc8491)
 # Todo 서비스 구조
 # Memo 서비스 구조
 
