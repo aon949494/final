@@ -14,5 +14,9 @@
 # 회원가입/로그인 기능 구조
 ![image](https://github.com/aon949494/final/assets/149350230/225fd7e1-b459-4573-9a58-251a2dfc8491)
 # Todo 서비스 구조
+![image](https://github.com/aon949494/final/assets/149350230/aa526030-8d81-4455-9007-bdff9e72beb9)
 # Memo 서비스 구조
+![image](https://github.com/aon949494/final/assets/149350230/3bcc0f24-9594-4944-b5b4-e70c40dbf36b)
+
+
 
