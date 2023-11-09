@@ -8,6 +8,8 @@
 - [자동로그인 기능](https://github.com/aon949494/final/blob/master/src/main/java/org/zerock/finals/controller/LoginController.java)
 # 프로젝트 구조
 ![캡처](https://github.com/aon949494/final/assets/149350230/85239870-6294-4544-bc32-6721f1b4c51f)
+- 회원가입/로그인 기능 구조
+  ![image](https://github.com/aon949494/final/assets/149350230/225fd7e1-b459-4573-9a58-251a2dfc8491)
 - ERD
   ![d](https://github.com/aon949494/final/assets/149350230/82ccacd9-62d0-4e14-873f-2fa5001e6552)
 # 기술
